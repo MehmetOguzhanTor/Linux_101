@@ -12,3 +12,11 @@ This repository is dedicated to documenting my journey of learning and exploring
 - [x] Downloaded the Ubuntu Server ISO from the official [Ubuntu Downloads](https://ubuntu.com/download/server) page.
 - [x] Created a bootable USB drive using Rufus, which can be downloaded from the [Rufus Official Site](https://rufus.ie/).
 
+### Creating Bootable USB with Rufus
+- [x] Used the following settings in Rufus:
+  - **Device:** Selected the USB drive
+  - **Boot selection:** Chose the Ubuntu Server ISO file
+  - **Partition scheme:** GPT for UEFI computers
+  - **File system:** FAT32
+  - **Cluster size:** Left as default
+  - **Persistent partition size:** Set to 0 as it's not needed for installation media
