@@ -23,3 +23,7 @@ This repository is dedicated to documenting my journey of learning and exploring
 
 ### Preparing the Laptop
 - [x] Configured the HP Pavilion laptop to remain operational even when the lid is closed by adjusting the power settings in the Control Panel under "Hardware and Sound" > "Power Options" > "System Settings".
+
+### Installation of Ubuntu Server
+- [x] Booted the laptop from the USB drive and followed the on-screen instructions to install Ubuntu Server.
+- [x] Set up a new user and installed OpenSSH Server during the installation for remote access.
