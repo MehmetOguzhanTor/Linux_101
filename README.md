@@ -20,3 +20,6 @@ This repository is dedicated to documenting my journey of learning and exploring
   - **File system:** FAT32
   - **Cluster size:** Left as default
   - **Persistent partition size:** Set to 0 as it's not needed for installation media
+
+### Preparing the Laptop
+- [x] Configured the HP Pavilion laptop to remain operational even when the lid is closed by adjusting the power settings in the Control Panel under "Hardware and Sound" > "Power Options" > "System Settings".
